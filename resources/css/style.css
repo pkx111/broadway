@@ -9,7 +9,12 @@ body{
   font-size: 11px;
   color: white;
   background-color: dimgray;
+  text-align: left;
 
+}
+.foot a{
+  color: white;
+  
 }
 
 .place{1
