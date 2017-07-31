@@ -2,12 +2,7 @@ body{
   text-align: center;
   font-family: Helvetica;
 }
-.header {
-  background-image: url("../media/the-flatiron-building.png");
-  color: white;
-
-}
-.pbreak{
+.header, .pbreak{
   background-image: url("../media/the-flatiron-building.png");
   color: white;
 
@@ -18,12 +13,7 @@ body{
   text-align: left;
 
 }
-.header a{
-  font-size: 18px;
-  color: white;
-
-}
-.footer a{
+.header a, .footer a{
   color: white;
   font-size: 18px;
 
