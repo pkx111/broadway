@@ -3,6 +3,7 @@ body{
   font-family: Helvetica;
 }
 .header, .pbreak{
+  background-position: center;
   background-image: url("../media/the-flatiron-building.png");
   color: white;
 
@@ -39,14 +40,5 @@ h3{
 }
 p{
   font-size: 14px;
-
-}
-#work{
-
-}
-#team{
-
-}
-#contact{
 
 }
